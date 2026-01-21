@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0750C9-37DE-4F96-A774-71470AF8EB3D}|ConsoleApplication7\\ConsoleApplication7.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B0750C9-37DE-4F96-A774-71470AF8EB3D}|ConsoleApplication7\\ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "math.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h",
+              "RelativeDocumentMoniker": "Math\\math.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h",
+              "RelativeToolTip": "Math\\math.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T08:04:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "math.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.cpp",
+              "RelativeDocumentMoniker": "Math\\math.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.cpp",
+              "RelativeToolTip": "Math\\math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T08:03:32.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication7.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication7\\ConsoleApplication7.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\ConsoleApplication7\\ConsoleApplication7.cpp",
+              "RelativeToolTip": "ConsoleApplication7\\ConsoleApplication7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T08:03:04.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
