@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5F6120-9D2C-479E-80B1-2EFDBF362C77}|ConsoleApplication6\\ConsoleApplication6.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A5F6120-9D2C-479E-80B1-2EFDBF362C77}|ConsoleApplication6\\ConsoleApplication6.vcxproj|solutionrelative:ConsoleApplication6\\ConsoleApplication6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\calculate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\MathLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38113018-C2FA-49E0-B0AD-78F612C45C8D}|MathLibrary\\MathLibrary.vcxproj|solutionrelative:MathLibrary\\MathLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculate.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.h",
+              "RelativeDocumentMoniker": "MathLibrary\\calculate.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.h",
+              "RelativeToolTip": "MathLibrary\\calculate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T07:24:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculate.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.cpp",
+              "RelativeDocumentMoniker": "MathLibrary\\calculate.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\calculate.cpp",
+              "RelativeToolTip": "MathLibrary\\calculate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T07:24:11.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication6.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication6\\ConsoleApplication6.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp",
+              "RelativeToolTip": "ConsoleApplication6\\ConsoleApplication6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T07:22:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\MathLibrary.cpp",
+              "RelativeDocumentMoniker": "MathLibrary\\MathLibrary.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication6\\MathLibrary\\MathLibrary.cpp",
+              "RelativeToolTip": "MathLibrary\\MathLibrary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T07:22:49.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
