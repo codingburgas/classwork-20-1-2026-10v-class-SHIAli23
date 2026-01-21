@@ -1,2 +1,6 @@
-﻿  math.cpp
+﻿  add.cpp
+  divide.cpp
+  multiply.cpp
+  subtract.cpp
+  Generating Code...
   Math.vcxproj -> C:\Users\shiali23\source\repos\classwork-20-1-2026-10v-class-SHIAli23\ConsoleApplication7\x64\Debug\Math.lib

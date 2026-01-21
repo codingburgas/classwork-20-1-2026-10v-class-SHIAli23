@@ -7,12 +7,36 @@
       "RelativeMoniker": "D:0:0:{8B0750C9-37DE-4F96-A774-71470AF8EB3D}|ConsoleApplication7\\ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\subtract.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\multiply.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\divide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\add.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\subtract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\multiply.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\divide.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC32F66-CF23-4A8F-BF58-AA728C665F34}|Math\\Math.vcxproj|solutionrelative:Math\\add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,31 +46,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "math.h",
-              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h",
-              "RelativeDocumentMoniker": "Math\\math.h",
-              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.h",
-              "RelativeToolTip": "Math\\math.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "divide.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.h",
+              "RelativeDocumentMoniker": "Math\\divide.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.h",
+              "RelativeToolTip": "Math\\divide.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-21T08:04:25.28Z"
+              "WhenOpened": "2026-01-21T08:14:31.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "math.cpp",
-              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.cpp",
-              "RelativeDocumentMoniker": "Math\\math.cpp",
-              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\math.cpp",
-              "RelativeToolTip": "Math\\math.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Title": "multiply.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.h",
+              "RelativeDocumentMoniker": "Math\\multiply.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.h",
+              "RelativeToolTip": "Math\\multiply.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T08:14:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subtract.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.h",
+              "RelativeDocumentMoniker": "Math\\subtract.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.h",
+              "RelativeToolTip": "Math\\subtract.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T08:14:08.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add.h",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.h",
+              "RelativeDocumentMoniker": "Math\\add.h",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.h",
+              "RelativeToolTip": "Math\\add.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-21T08:13:55.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "divide.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.cpp",
+              "RelativeDocumentMoniker": "Math\\divide.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\divide.cpp",
+              "RelativeToolTip": "Math\\divide.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-21T08:03:32.889Z"
+              "WhenOpened": "2026-01-21T08:13:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "multiply.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.cpp",
+              "RelativeDocumentMoniker": "Math\\multiply.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\multiply.cpp",
+              "RelativeToolTip": "Math\\multiply.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T08:13:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subtract.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.cpp",
+              "RelativeDocumentMoniker": "Math\\subtract.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\subtract.cpp",
+              "RelativeToolTip": "Math\\subtract.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T08:13:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add.cpp",
+              "DocumentMoniker": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.cpp",
+              "RelativeDocumentMoniker": "Math\\add.cpp",
+              "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\Math\\add.cpp",
+              "RelativeToolTip": "Math\\add.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T08:13:04.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +160,7 @@
               "RelativeDocumentMoniker": "ConsoleApplication7\\ConsoleApplication7.cpp",
               "ToolTip": "C:\\Users\\shiali23\\source\\repos\\classwork-20-1-2026-10v-class-SHIAli23\\ConsoleApplication7\\ConsoleApplication7\\ConsoleApplication7.cpp",
               "RelativeToolTip": "ConsoleApplication7\\ConsoleApplication7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-21T08:03:04.828Z",
               "EditorCaption": ""

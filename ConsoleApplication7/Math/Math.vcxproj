@@ -128,10 +128,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="math.cpp" />
+    <ClCompile Include="add.cpp" />
+    <ClCompile Include="divide.cpp" />
+    <ClCompile Include="multiply.cpp" />
+    <ClCompile Include="subtract.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="math.h" />
+    <ClInclude Include="add.h" />
+    <ClInclude Include="divide.h" />
+    <ClInclude Include="multiply.h" />
+    <ClInclude Include="subtract.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

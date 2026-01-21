@@ -1,4 +1,7 @@
-#include "../Math/math.h"
+#include "../Math/add.h"
+#include "../Math/subtract.h"
+#include "../Math/multiply.h"
+#include "../Math/divide.h"
 #include<iostream>
 using namespace std;
 int main()
